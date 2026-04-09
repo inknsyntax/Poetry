@@ -1,0 +1,40 @@
+{
+  "name": "json-forge",
+  "version": "0.1.0",
+  "description": "Create folders/files/edits from JSON spec. Code with JSON scaffold module.",
+  "main": "index.js",
+  "bin": {
+    "json-forge": "cli.js"
+  },
+  "scripts": {
+    "start": "node cli.js",
+    "demo": "node cli.js demo",
+    "test": "node --test test/json-modules.test.js",
+    "modules": "node cli.js modules .",
+    "watch:json": "node cli.js watch ."
+  },
+  "keywords": [
+    "json",
+    "filesystem",
+    "scaffold",
+    "code-generation",
+    "file-creator",
+    "node-module",
+    "json-module"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "zod": "^4.3.6"
+  },
+  "jsonForge": {
+    "moduleFolders": [
+      "json"
+    ],
+    "ignoreFolders": [
+      "node_modules",
+      ".git"
+    ],
+    "watchDebounceMs": 150
+  }
+}
