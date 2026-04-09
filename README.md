@@ -4,8 +4,8 @@ JSON-first filesystem creator/editor for Node.js.
 
 ## Docs
 
-- [docs/LEGEND.md](docs/LEGEND.md) for the JSON field legend, command meanings, and translation rules
-- [docs/WHAT-THIS-IS.md](docs/WHAT-THIS-IS.md) for the plain-English overview, workflow explanation, and infographic
+- [Documents/LEGEND.md](Documents/LEGEND.md) for the JSON field legend, command meanings, and translation rules
+- [Documents/WHAT-THIS-IS.md](Documents/WHAT-THIS-IS.md) for the plain-English overview, workflow explanation, and infographic
 
 ## Install
 
