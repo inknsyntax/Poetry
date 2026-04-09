@@ -3,7 +3,7 @@
 P – Poetic
 O – Orchestrator
 E – Exoskeleton
-T – Template-driven
+T – Template driven
 R – Resource generator
 Y – Yielder of JS
 
