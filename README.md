@@ -1,10 +1,15 @@
 # POETRY
 
 P – Poetic
+
 O – Orchestrator
-E – Exoskeleton
+
+E– Exoskeleton
+
 T – Template driven
+
 R – Resource generator
+
 Y – Yielder of JS
 
 JSON-first filesystem creator/editor for Node.js.
